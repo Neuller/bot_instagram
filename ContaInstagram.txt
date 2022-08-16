@@ -1,0 +1,18 @@
+CONTA 1
+============================
+USUARIO: ncesar.premios
+SENHA: 25.2.52
+
+CONTA 2
+============================
+E-MAIL: ncesar.sorteios@outlook.com
+SENHA: 25.2.5n.
+USUARIO: ncesar.sorteios
+SENHA: 25.2.5
+
+CONTA 3
+============================
+E-MAIL: ncesar.acessoria@outlook.com
+SENHA: 25.2.5n.
+USUARIO: ncesar.acessoria
+SENHA: 25.2.5
