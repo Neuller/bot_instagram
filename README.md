@@ -1,12 +1,9 @@
 # Bem vindo ao meu repositório!
 
-Descubra como o poder da programação pode **mudar o futuro** e a **sua vida!**
-
 Redes Sociais:
-* [Youtube](https://www.youtube.com/devaprender.com)
-* [Site](www.devaprender.com)
-* [Instagram](https://www.instagram.com/devaprender.official/)
-* [Facebook](facebook.com/devaprender/)
+* [Site](https://nserv.vercel.app/#/)
+* [Instagram](https://www.instagram.com/nserv.informatica/)
+* [Linkedin](https://www.linkedin.com/company/nserv-informatica/)
 
 ---
 
@@ -30,7 +27,7 @@ Redes Sociais:
 # Mini-Tutorial de como usar o bot
 
 1. Após ter feito o download dos arquivos vá até a pasta onde você fez o download e extraia o arquivo.
-2. Abra o VS Code e altere o código do arquivo `BotComentarioInstagram.py` de acordo com o que foi instruído no [vídeo de como criar um bot de comentários](https://www.youtube.com/watch?v=nb_gbWzGpPM).
+2. Abra o VS Code e altere o código do arquivo `BotInstagram.py`.
 3. Altere os comentários padrão que estão sendo usados neste arquivo.
 4. Altere a *hashtag* de acordo com sua necessidade.
 5. Altere o nome do **usuário** e **senha**.
@@ -45,9 +42,9 @@ Redes Sociais:
 * **Economizar** dezenas de horas?
 * **Monetizar** seu conhecimento?
 
-Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), saiba mais [clicando aqui](http://b.link/GitHub_curso_automacao).
+Posso te ensinar tudo isso, entre em contato conosco.
 
 ---
 
-## Tem sugestões/temas/tópicos/cursos para o canal?
-Estou sempre aberto para sugestões, mande elas para jhonatan@devaprender.com
+## Tem sugestões/temas/tópicos/cursos?
+Estou sempre aberto para sugestões, mande elas para nserv@hotmail.com
